@@ -1,4 +1,4 @@
-<h1 align="center">Arthur Mc Santos &trade; <h1>  
+<h1 align="center">Arthur Mc Santos  <h1>  
   
 ### Metas 2020
 
