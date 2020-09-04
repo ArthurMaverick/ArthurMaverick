@@ -4,8 +4,8 @@
 ### Metas 2020
 
 - [x] read clean code
-- [ ] learn next.js
+- [x] learn next.js
 - [ ] learn firebase
 - [ ] create a youtube channel
-- [ ] help people on stackoverflow
+- [x] help people on stackoverflow
 - [ ] create a project with next.js and firebase
