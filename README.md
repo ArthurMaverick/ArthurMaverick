@@ -16,4 +16,6 @@
 
 <a href= "https://github-readme-stats.vercel.app/api/pin"> 
   <img align = "center" src ="https://github-readme-stats.vercel.app/api/pin/?username=ArthurMaverick&repo=next-template"/>
+</a> <a href= "https://github-readme-stats.vercel.app/api/pin"> 
+  <img align = "center" src ="https://github-readme-stats.vercel.app/api/pin/?username=ArthurMaverick&repo=React_Flix"/>
 </a> 
