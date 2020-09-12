@@ -11,6 +11,6 @@
 
 <h2 align="center">main project</h2>
 
-<a href= "https://github.com/anuraghazra/github-readme-stats"> 
+<a href= "https://github-readme-stats.vercel.app/api/pin"> 
 <img align="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=ArthurMaverick&repo=next-template"/>
 </a> 
