@@ -7,7 +7,7 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurMaverick&hide=contribs&show_icons=true&theme=radical)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurMaverick&hide=star,prs&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurMaverick&hide=,prs&show_icons=true&theme=radical)
 
 
 
