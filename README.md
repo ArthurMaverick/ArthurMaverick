@@ -6,8 +6,7 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurMaverick&show_icons=true&theme=radical)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurMaverick&hide=contribs,prs&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurMaverick&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE)
 
 
 
