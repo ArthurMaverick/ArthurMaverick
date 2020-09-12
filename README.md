@@ -26,10 +26,9 @@
  
 </h1>
 
+<h1 align = "center">
   <a  href="https://github.com/ArthurMaverick?tab=repositories">
+    <img  src ="https://media.giphy.com/media/37rqeyH3hL4I6uvjNB/giphy.gif" width="200" height="100"/>
+  </a> 
 
-
-
-
-</a> 
-
+</h1>
