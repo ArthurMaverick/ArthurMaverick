@@ -9,7 +9,7 @@
 
 <br/><br/><br/>
 
-<h2 align="center">Main Projects</h2>
+
 <h1 align="center"></h1>
 
 <h1 align="center">
