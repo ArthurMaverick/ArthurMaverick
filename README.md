@@ -8,7 +8,8 @@
 </a> 
 
 <br/><br/><br/>
-<h3 align="center">main project</h3>
+
+<h2 align="center">Main Projects</h2>
 <h1 align="center"></h1>
 
 
