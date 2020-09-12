@@ -12,10 +12,24 @@
 <h2 align="center">Main Projects</h2>
 <h1 align="center"></h1>
 
+<h1 align="center">
+<img src="https://media.giphy.com/media/W68uVvRZFaxXTnFJrO/giphy.gif" width="600" height="400" />
+</h1>
 
 <h1 align = "center">
+    
 <a href= "https://github-readme-stats.vercel.app/api/pin"> 
   <img align = "center" src ="https://github-readme-stats.vercel.app/api/pin/?username=ArthurMaverick&repo=next-template"/>
 </a> <a href= "https://github-readme-stats.vercel.app/api/pin"> 
   <img align = "center" src ="https://github-readme-stats.vercel.app/api/pin/?username=ArthurMaverick&repo=React_Flix"/>
-</a></h1>
+</a>
+ 
+</h1>
+
+  <a  href="https://github.com/ArthurMaverick?tab=repositories">
+
+
+
+
+</a> 
+
