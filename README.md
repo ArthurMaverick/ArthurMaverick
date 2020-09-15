@@ -1,4 +1,4 @@
-<img src="https://github.com/ArthurMaverick/ArthurMaverick/blob/master/capa.png?raw=true"/>
+<img src="https://github.com/ArthurMaverick/ArthurMaverick/blob/master/profile.png?raw=true"/>
 
 
 <a href= "https://github.com/anuraghazra/github-readme-stats"> 
