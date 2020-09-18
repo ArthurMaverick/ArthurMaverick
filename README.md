@@ -12,9 +12,7 @@
 
 <h1 align="center"></h1>
 
-<h1 align="center">
-<img src="https://media.giphy.com/media/W68uVvRZFaxXTnFJrO/giphy.gif" width="600" height="400" />
-</h1>
+
 
 <h1 align = "center">
 
