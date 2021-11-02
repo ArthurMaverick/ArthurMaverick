@@ -1,6 +1,6 @@
 
   <div align="center">
-  <img src="./smile.gif" width=150 style="border-radius:50%"/>
+  <img src="./sm.gif" width=150 style="border-radius:50%"/>
   </div>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArthurMaverick" width=150/>
