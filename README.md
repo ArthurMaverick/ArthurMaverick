@@ -1,7 +1,7 @@
 
-  <div align="center">
+<!--   <div align="center">
   <img src="./sm.gif" width=150 style="border-radius:50%"/>
-  </div>
+  </div> -->
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArthurMaverick" width=150/>
   </div>
