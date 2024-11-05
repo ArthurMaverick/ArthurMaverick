@@ -1,67 +1,174 @@
- # Arthur Santos - DevOps Engineer
-I'm Arthur Santos, a person with a passion for building scalable and reliable infrastructure. My expertise lies in orchestrating containerized applications using Kubernetes, developing efficient solutions with Golang, and managing cloud infrastructure on AWS. With a strong foundation in both software development and system administration, I thrive in bridging the gap between development and operations to deliver robust and streamlined solutions.
+# Arthur Santos
 
-## Skills
+**`DevOps`**
 
-- **Kubernetes:**
-  - Deployment and management of containerized applications.
-  - Configuration and optimization of Kubernetes clusters.
-  - Helm chart creation and customization.
+With a relentless focus on building and optimizing distributed systems, I bring expertise in designing high-performance infrastructures that scale seamlessly. My journey in DevOps is fueled by a commitment to resilience, automation, and the efficiency needed to tackle complex challenges head-on. 
 
-- **Golang:**
-  - Development of microservices and tools for automation.
-  - API development and integration.
-  - Performance tuning and optimization.
+<p align="left">
+    <a href="https://github.com/ArthurMaverick?tab=repositories&sort=stargazers">
+        <img 
+            alt="all stars" 
+            title="GitHub Stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/ArthurMaverick?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
+        />
+    </a>
+    <a href="https://github.com/ArthurMaverick?tab=followers">
+        <img 
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ArthurMaverick?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-- **AWS:**
-  - Infrastructure as Code (IaC) using Terraform.
-  - Deployment and management of AWS resources.
-  - Automation with AWS Lambda and CloudFormation.
+---
 
-- **Continuous Integration/Continuous Deployment (CI/CD):**
-  - Setting up pipelines using Jenkins, GitLab CI, or GitHub Actions.
-  - Implementing blue-green deployments and canary releases.
+### Tools
 
-- **Monitoring and Logging:**
-  - Implementation of monitoring solutions such as Prometheus and Grafana.
-  - Configuration of centralized logging with tools like ELK stack.
+          
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kubernetes" 
+    title="Kubernetes"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
+/>
+          
+<img 
+    align="left" 
+    alt="Golang" 
+    title="Golang"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+          
+<img 
+    align="left" 
+    alt="Argo CD"
+    title="Argo CD" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" 
+/>
+          
+<img 
+    align="left" 
+    alt="Prometheus.js" 
+    title="Prometheus"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" 
+/>
+          
+<img 
+    align="left" 
+    alt="Grafana"
+    title="Grafana" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
+/>
+             
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
+/>
+          
+<img 
+    align="left" 
+    alt="Azure" 
+    title="Azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+          
+<img 
+    align="left" 
+    alt="Github Actions" 
+    title="Github Actions"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" 
+/>
+          
+<img 
+    align="left" 
+    alt="Azure Devops" 
+    title="Azure Devops"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
+/>
+          
+<img 
+    align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+          
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
+/>
+          
+<img 
+    align="left" 
+    alt="Otel" 
+    title="Otel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" 
+/>
 
-- **Scripting and Automation:**
-  - Shell scripting (Bash) for automating routine tasks.
-  - Ansible for configuration management and automation.
+<br/>
+<br/>
 
-## Projects
+### 📊 Data
 
-### Kubernetes Deployment Automation
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ArthurMaverick&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+  />
 
-I led a team in designing and implementing a Kubernetes deployment pipeline for a microservices-based application. This included optimizing Helm charts, setting up CI/CD pipelines, and implementing automated scaling strategies.
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMaverick&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+  />
 
-### Golang Microservices
-
-Developed a suite of Golang microservices to enhance system automation. These services improved the efficiency of routine tasks and reduced manual intervention in deployment processes.
-
-### AWS Infrastructure Automation
-
-Architected and implemented AWS infrastructure using Terraform, allowing for scalable and cost-effective solutions. This included the setup of VPCs, EC2 instances, RDS databases, and more.
-
-## Certifications
-
-- AWS Certified
-
-## Contact
-
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/arthurmcsantos/) for collaboration, job opportunities, or discussions on DevOps, Kubernetes, Golang, or AWS.
-
-
-<!--   <div align="center">
-  <img src="./sm.gif" width=150 style="border-radius:50%"/>
-  </div> -->
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArthurMaverick" width=150/>
-  </div>
-</br>
-
-<!-- <figure><embed src="https://wakatime.com/share/@92b90678-e37c-4ea7-a4a4-fe38842d2f60/7f68b913-7b5c-4efd-9d3e-92e7a6279336.svg"></embed></figure> -->
-
-<!-- ![Alt text](https://wakatime.com/share/@92b90678-e37c-4ea7-a4a4-fe38842d2f60/7f68b913-7b5c-4efd-9d3e-92e7a6279336.svg) -->
-<!-- <img src="https://wakatime.com/share/@92b90678-e37c-4ea7-a4a4-fe38842d2f60/7f68b913-7b5c-4efd-9d3e-92e7a6279336.svg"> -->
+</p>
